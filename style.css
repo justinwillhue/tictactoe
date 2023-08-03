@@ -1,18 +1,20 @@
 #board {
     padding-top: 3em;
     text-align: center;
+    
+    
 }
 .row > div {
     float: left;
     height: 100px;
     width: 100px
-    
 }
 .row {
 
     clear: both;
     margin: auto;
     width: 306px;
+    font-size: 50px;
 
 }
 .top {
@@ -29,3 +31,10 @@
 .right {
     border-left: 1px black solid
 }
+
+h2 {
+    text-align: center;
+    color: crimson solid;
+    font-size: 30px;
+}
+
